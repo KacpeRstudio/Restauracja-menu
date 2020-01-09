@@ -1,0 +1,11 @@
+/Users/Kacper/Desktop/Programowanie/kolor C#/praca domowa 5/bin/Debug/netcoreapp3.0/praca domowa 5
+/Users/Kacper/Desktop/Programowanie/kolor C#/praca domowa 5/bin/Debug/netcoreapp3.0/praca domowa 5.deps.json
+/Users/Kacper/Desktop/Programowanie/kolor C#/praca domowa 5/bin/Debug/netcoreapp3.0/praca domowa 5.runtimeconfig.json
+/Users/Kacper/Desktop/Programowanie/kolor C#/praca domowa 5/bin/Debug/netcoreapp3.0/praca domowa 5.runtimeconfig.dev.json
+/Users/Kacper/Desktop/Programowanie/kolor C#/praca domowa 5/bin/Debug/netcoreapp3.0/praca domowa 5.dll
+/Users/Kacper/Desktop/Programowanie/kolor C#/praca domowa 5/bin/Debug/netcoreapp3.0/praca domowa 5.pdb
+/Users/Kacper/Desktop/Programowanie/kolor C#/praca domowa 5/obj/Debug/netcoreapp3.0/praca domowa 5.csprojAssemblyReference.cache
+/Users/Kacper/Desktop/Programowanie/kolor C#/praca domowa 5/obj/Debug/netcoreapp3.0/praca domowa 5.AssemblyInfoInputs.cache
+/Users/Kacper/Desktop/Programowanie/kolor C#/praca domowa 5/obj/Debug/netcoreapp3.0/praca domowa 5.AssemblyInfo.cs
+/Users/Kacper/Desktop/Programowanie/kolor C#/praca domowa 5/obj/Debug/netcoreapp3.0/praca domowa 5.dll
+/Users/Kacper/Desktop/Programowanie/kolor C#/praca domowa 5/obj/Debug/netcoreapp3.0/praca domowa 5.pdb
